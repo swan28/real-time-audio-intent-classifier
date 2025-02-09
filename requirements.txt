@@ -1,0 +1,10 @@
+sounddevice 
+numpy 
+librosa 
+matplotlib 
+soundfile 
+transformers 
+torch
+wave
+datasets
+ipykernel
